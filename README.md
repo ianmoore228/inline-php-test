@@ -1,7 +1,7 @@
 # Тестовое задание для ИНЛАЙН
 
 Список записей блога: https://jsonplaceholder.typicode.com/posts
-Комментарии к записям: https://jsonplaceholder.typicode.com/comments
+<p>Комментарии к записям: https://jsonplaceholder.typicode.com/comments</p>
 
 Требуется:
 
